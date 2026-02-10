@@ -1,3 +1,6 @@
 [submodule "third_party/HY-WorldPlay"]
 	path = third_party/HY-WorldPlay
 	url = https://github.com/jby20180901/HY-WorldPlay.git
+[submodule "third_party/lingbot-world"]
+	path = third_party/lingbot-world
+	url = https://github.com/jby20180901/lingbot-world.git
