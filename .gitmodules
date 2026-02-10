@@ -1,0 +1,3 @@
+[submodule "third_party/HY-WorldPlay"]
+	path = third_party/HY-WorldPlay
+	url = https://github.com/jby20180901/HY-WorldPlay.git
