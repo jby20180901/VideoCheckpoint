@@ -4,3 +4,6 @@
 [submodule "third_party/lingbot-world"]
 	path = third_party/lingbot-world
 	url = https://github.com/jby20180901/lingbot-world.git
+[submodule "third_party/Wan2.2"]
+	path = third_party/Wan2.2
+	url = https://github.com/Wan-Video/Wan2.2.git
