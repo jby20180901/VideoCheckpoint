@@ -7,3 +7,6 @@
 [submodule "third_party/Wan2.2"]
 	path = third_party/Wan2.2
 	url = https://github.com/jby20180901/Wan2.2.git
+[submodule "third_party/HunyuanWorld-Mirror"]
+	path = third_party/HunyuanWorld-Mirror
+	url = https://github.com/jby20180901/HunyuanWorld-Mirror.git
